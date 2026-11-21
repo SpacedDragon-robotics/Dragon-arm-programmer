@@ -1,0 +1,16 @@
+# Release build output (see CLAUDE.md, "Releasing")
+build/
+stage/
+*.exe
+
+# Qt Design Studio / Qt Creator per-user state
+*.qmlproject.qtds
+*.user
+*.user.*
+
+# QML caches
+*.qmlc
+*.jsc
+
+# Blender export scratch
+app_export/

@@ -1,0 +1,69 @@
+import QmlProject
+
+Project {
+    mainFile: "content/App.qml"
+
+    /* Application QML. Directory entries are scanned recursively. */
+    QmlFiles {
+        directory: "content"
+    }
+    QmlFiles {
+        directory: "imports"
+    }
+
+    /* Pure-logic JavaScript libraries (validator, code generator, ...). */
+    JavaScriptFiles {
+        directory: "content"
+    }
+    JavaScriptFiles {
+        directory: "imports"
+    }
+
+    ImageFiles {
+        directory: "content"
+    }
+    ImageFiles {
+        directory: "asset_imports"
+    }
+
+    /* 3D view rigs: balsam meshes under content/view3d/rigs. */
+    Files {
+        filter: "*.mesh"
+        directory: "content"
+    }
+
+    Files {
+        filter: "*.conf"
+    }
+    Files {
+        filter: "*.ttf"
+    }
+    Files {
+        filter: "*.otf"
+    }
+    Files {
+        filter: "*.md"
+    }
+
+    Environment {
+        QT_QUICK_CONTROLS_CONF: "qtquickcontrols2.conf"
+        QT_AUTO_SCREEN_SCALE_FACTOR: "1"
+        QML_COMPAT_RESOLVE_URLS_ON_ASSIGNMENT: "1"
+        QT_LOGGING_RULES: "qt.qml.connections=false"
+    }
+
+    qt6Project: true
+
+    /* "imports" holds the DragonArm module (singletons + logic). */
+    importPaths: [ ".", "imports", "asset_imports" ]
+
+    targetDirectory: "/opt/DragonArmStudio"
+
+    qdsVersion: "4.8"
+    quickVersion: "6.8"
+    widgetApp: true
+
+    multilanguageSupport: false
+    supportedLanguages: ["en"]
+    primaryLanguage: "en"
+}

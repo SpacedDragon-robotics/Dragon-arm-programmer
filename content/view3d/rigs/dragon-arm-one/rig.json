@@ -1,0 +1,690 @@
+{
+ "meshes": [
+  {
+   "link": "base",
+   "material": "SMD component",
+   "name": "base_smd_component",
+   "tris": 24
+  },
+  {
+   "link": "base",
+   "material": "PLA black",
+   "name": "base_pla_black",
+   "tris": 12471
+  },
+  {
+   "link": "base",
+   "material": "PLA slate gray",
+   "name": "base_pla_slate_gray",
+   "tris": 10032
+  },
+  {
+   "link": "base",
+   "material": "Motor body",
+   "name": "base_motor_body",
+   "tris": 152
+  },
+  {
+   "link": "base",
+   "material": "Steel",
+   "name": "base_steel",
+   "tris": 818
+  },
+  {
+   "link": "base",
+   "material": "Bearing seal",
+   "name": "base_bearing_seal",
+   "tris": 1362
+  },
+  {
+   "link": "base",
+   "material": "Belt rubber",
+   "name": "base_belt_rubber",
+   "tris": 600
+  },
+  {
+   "link": "base",
+   "material": "Screw black oxide",
+   "name": "base_screw_black_oxide",
+   "tris": 1824
+  },
+  {
+   "link": "base",
+   "material": "Screw black oxide.001",
+   "name": "base_screw_black_oxide_001",
+   "tris": 192
+  },
+  {
+   "link": "base",
+   "material": "PCB purple",
+   "name": "base_pcb_purple",
+   "tris": 12
+  },
+  {
+   "link": "base",
+   "material": "Aluminium",
+   "name": "base_aluminium",
+   "tris": 12
+  },
+  {
+   "link": "base",
+   "material": "Plastic dark",
+   "name": "base_plastic_dark",
+   "tris": 636
+  },
+  {
+   "link": "base",
+   "material": "Plastic dark.001",
+   "name": "base_plastic_dark_001",
+   "tris": 414
+  },
+  {
+   "link": "base",
+   "material": "Nickel brass",
+   "name": "base_nickel_brass",
+   "tris": 112
+  },
+  {
+   "link": "base",
+   "material": "Print white",
+   "name": "base_print_white",
+   "tris": 86
+  },
+  {
+   "link": "base",
+   "material": "PCB black",
+   "name": "base_pcb_black",
+   "tris": 72
+  },
+  {
+   "link": "base",
+   "material": "Trim pot",
+   "name": "base_trim_pot",
+   "tris": 72
+  },
+  {
+   "link": "base",
+   "material": "Gold pins",
+   "name": "base_gold_pins",
+   "tris": 438
+  },
+  {
+   "link": "base",
+   "material": "Heatsink blue",
+   "name": "base_heatsink_blue",
+   "tris": 576
+  },
+  {
+   "link": "base",
+   "material": "Capacitor sleeve green",
+   "name": "base_capacitor_sleeve_green",
+   "tris": 552
+  },
+  {
+   "link": "base",
+   "material": "Capacitor top",
+   "name": "base_capacitor_top",
+   "tris": 552
+  },
+  {
+   "link": "base",
+   "material": "JST white",
+   "name": "base_jst_white",
+   "tris": 72
+  },
+  {
+   "link": "base",
+   "material": "IC package",
+   "name": "base_ic_package",
+   "tris": 382
+  },
+  {
+   "link": "base",
+   "material": "Wire black",
+   "name": "base_wire_black",
+   "tris": 72
+  },
+  {
+   "link": "base",
+   "material": "Wire red",
+   "name": "base_wire_red",
+   "tris": 72
+  },
+  {
+   "link": "base",
+   "material": "Solder pad",
+   "name": "base_solder_pad",
+   "tris": 156
+  },
+  {
+   "link": "base",
+   "material": "PCB Arduino teal",
+   "name": "base_pcb_arduino_teal",
+   "tris": 22
+  },
+  {
+   "link": "base",
+   "material": "LED amber",
+   "name": "base_led_amber",
+   "tris": 3
+  },
+  {
+   "link": "base",
+   "material": "LED green",
+   "name": "base_led_green",
+   "tris": 1
+  },
+  {
+   "link": "j1",
+   "material": "Screw black oxide",
+   "name": "j1_screw_black_oxide",
+   "tris": 1728
+  },
+  {
+   "link": "j1",
+   "material": "PLA black",
+   "name": "j1_pla_black",
+   "tris": 10496
+  },
+  {
+   "link": "j1",
+   "material": "PLA slate gray",
+   "name": "j1_pla_slate_gray",
+   "tris": 22328
+  },
+  {
+   "link": "j1",
+   "material": "PLA purple",
+   "name": "j1_pla_purple",
+   "tris": 462
+  },
+  {
+   "link": "j1",
+   "material": "Motor body",
+   "name": "j1_motor_body",
+   "tris": 304
+  },
+  {
+   "link": "j1",
+   "material": "Steel",
+   "name": "j1_steel",
+   "tris": 120
+  },
+  {
+   "link": "j1",
+   "material": "Belt rubber",
+   "name": "j1_belt_rubber",
+   "tris": 888
+  },
+  {
+   "link": "j2",
+   "material": "Screw black oxide",
+   "name": "j2_screw_black_oxide",
+   "tris": 3456
+  },
+  {
+   "link": "j2",
+   "material": "PLA black",
+   "name": "j2_pla_black",
+   "tris": 16490
+  },
+  {
+   "link": "j2",
+   "material": "PLA slate gray",
+   "name": "j2_pla_slate_gray",
+   "tris": 15454
+  },
+  {
+   "link": "j2",
+   "material": "PLA purple",
+   "name": "j2_pla_purple",
+   "tris": 28947
+  },
+  {
+   "link": "j2",
+   "material": "Paint black",
+   "name": "j2_paint_black",
+   "tris": 665
+  },
+  {
+   "link": "j2",
+   "material": "Motor body",
+   "name": "j2_motor_body",
+   "tris": 152
+  },
+  {
+   "link": "j2",
+   "material": "Steel",
+   "name": "j2_steel",
+   "tris": 476
+  },
+  {
+   "link": "j2",
+   "material": "Bearing seal",
+   "name": "j2_bearing_seal",
+   "tris": 784
+  },
+  {
+   "link": "j2",
+   "material": "Belt rubber",
+   "name": "j2_belt_rubber",
+   "tris": 600
+  },
+  {
+   "link": "j3",
+   "material": "Screw black oxide",
+   "name": "j3_screw_black_oxide",
+   "tris": 2496
+  },
+  {
+   "link": "j3",
+   "material": "PLA black",
+   "name": "j3_pla_black",
+   "tris": 18481
+  },
+  {
+   "link": "j3",
+   "material": "PLA slate gray",
+   "name": "j3_pla_slate_gray",
+   "tris": 18454
+  },
+  {
+   "link": "j3",
+   "material": "PLA purple",
+   "name": "j3_pla_purple",
+   "tris": 15370
+  },
+  {
+   "link": "j3",
+   "material": "Paint black",
+   "name": "j3_paint_black",
+   "tris": 1908
+  },
+  {
+   "link": "j3",
+   "material": "Motor body",
+   "name": "j3_motor_body",
+   "tris": 152
+  },
+  {
+   "link": "j3",
+   "material": "Steel",
+   "name": "j3_steel",
+   "tris": 488
+  },
+  {
+   "link": "j3",
+   "material": "Bearing seal",
+   "name": "j3_bearing_seal",
+   "tris": 772
+  },
+  {
+   "link": "j3",
+   "material": "Belt rubber",
+   "name": "j3_belt_rubber",
+   "tris": 600
+  },
+  {
+   "link": "j4",
+   "material": "Nylon white (JST)",
+   "name": "j4_nylon_white_jst",
+   "tris": 60
+  },
+  {
+   "link": "j4",
+   "material": "PLA slate gray",
+   "name": "j4_pla_slate_gray",
+   "tris": 6736
+  },
+  {
+   "link": "j4",
+   "material": "PLA black",
+   "name": "j4_pla_black",
+   "tris": 7132
+  },
+  {
+   "link": "j4",
+   "material": "Screw black oxide",
+   "name": "j4_screw_black_oxide",
+   "tris": 384
+  },
+  {
+   "link": "j5",
+   "material": "Screw black oxide",
+   "name": "j5_screw_black_oxide",
+   "tris": 672
+  },
+  {
+   "link": "j5",
+   "material": "PLA black",
+   "name": "j5_pla_black",
+   "tris": 4794
+  },
+  {
+   "link": "j5",
+   "material": "Motor body",
+   "name": "j5_motor_body",
+   "tris": 152
+  },
+  {
+   "link": "j5",
+   "material": "Steel",
+   "name": "j5_steel",
+   "tris": 60
+  }
+ ],
+ "materials": {
+  "SMD component": {
+   "id": "mat_smd_component",
+   "color": "#6B5E4D",
+   "roughness": 0.5,
+   "metalness": 0.0
+  },
+  "PLA black": {
+   "id": "mat_pla_black",
+   "color": "#1B1B1D",
+   "roughness": 0.5,
+   "metalness": 0.0
+  },
+  "PLA slate gray": {
+   "id": "mat_pla_slate_gray",
+   "color": "#434A54",
+   "roughness": 0.55,
+   "metalness": 0.0
+  },
+  "Motor body": {
+   "id": "mat_motor_body",
+   "color": "#1C1E21",
+   "roughness": 0.45,
+   "metalness": 0.6
+  },
+  "Steel": {
+   "id": "mat_steel",
+   "color": "#CED0D3",
+   "roughness": 0.22,
+   "metalness": 1.0
+  },
+  "Bearing seal": {
+   "id": "mat_bearing_seal",
+   "color": "#373A40",
+   "roughness": 0.7,
+   "metalness": 0.0
+  },
+  "Belt rubber": {
+   "id": "mat_belt_rubber",
+   "color": "#0E1011",
+   "roughness": 0.85,
+   "metalness": 0.0
+  },
+  "Screw black oxide": {
+   "id": "mat_screw_black_oxide",
+   "color": "#2A2B30",
+   "roughness": 0.38,
+   "metalness": 0.9
+  },
+  "Screw black oxide.001": {
+   "id": "mat_screw_black_oxide_001",
+   "color": "#2A2B30",
+   "roughness": 0.38,
+   "metalness": 0.9
+  },
+  "PCB purple": {
+   "id": "mat_pcb_purple",
+   "color": "#5B29B1",
+   "roughness": 0.42,
+   "metalness": 0.0
+  },
+  "Aluminium": {
+   "id": "mat_aluminium",
+   "color": "#E5E6E8",
+   "roughness": 0.3,
+   "metalness": 1.0
+  },
+  "Plastic dark": {
+   "id": "mat_plastic_dark",
+   "color": "#272B33",
+   "roughness": 0.7,
+   "metalness": 0.0
+  },
+  "Plastic dark.001": {
+   "id": "mat_plastic_dark_001",
+   "color": "#272B33",
+   "roughness": 0.7,
+   "metalness": 0.0
+  },
+  "Nickel brass": {
+   "id": "mat_nickel_brass",
+   "color": "#E5DDCB",
+   "roughness": 0.3,
+   "metalness": 1.0
+  },
+  "Print white": {
+   "id": "mat_print_white",
+   "color": "#EDEDED",
+   "roughness": 0.45,
+   "metalness": 0.0
+  },
+  "PCB black": {
+   "id": "mat_pcb_black",
+   "color": "#0D0E10",
+   "roughness": 0.42,
+   "metalness": 0.0
+  },
+  "Trim pot": {
+   "id": "mat_trim_pot",
+   "color": "#E9E9E9",
+   "roughness": 0.4,
+   "metalness": 0.0
+  },
+  "Gold pins": {
+   "id": "mat_gold_pins",
+   "color": "#D5B034",
+   "roughness": 0.25,
+   "metalness": 1.0
+  },
+  "Heatsink blue": {
+   "id": "mat_heatsink_blue",
+   "color": "#3573DD",
+   "roughness": 0.32,
+   "metalness": 1.0
+  },
+  "Capacitor sleeve green": {
+   "id": "mat_capacitor_sleeve_green",
+   "color": "#194C2A",
+   "roughness": 0.4,
+   "metalness": 0.0
+  },
+  "Capacitor top": {
+   "id": "mat_capacitor_top",
+   "color": "#C0C4C8",
+   "roughness": 0.3,
+   "metalness": 1.0
+  },
+  "JST white": {
+   "id": "mat_jst_white",
+   "color": "#EEEEE7",
+   "roughness": 0.45,
+   "metalness": 0.0
+  },
+  "IC package": {
+   "id": "mat_ic_package",
+   "color": "#131315",
+   "roughness": 0.4,
+   "metalness": 0.0
+  },
+  "Wire black": {
+   "id": "mat_wire_black",
+   "color": "#0C0C0C",
+   "roughness": 0.35,
+   "metalness": 0.0
+  },
+  "Wire red": {
+   "id": "mat_wire_red",
+   "color": "#C91818",
+   "roughness": 0.35,
+   "metalness": 0.0
+  },
+  "Solder pad": {
+   "id": "mat_solder_pad",
+   "color": "#CACDD1",
+   "roughness": 0.25,
+   "metalness": 1.0
+  },
+  "PCB Arduino teal": {
+   "id": "mat_pcb_arduino_teal",
+   "color": "#008890",
+   "roughness": 0.42,
+   "metalness": 0.0
+  },
+  "LED amber": {
+   "id": "mat_led_amber",
+   "color": "#F2A437",
+   "roughness": 0.3,
+   "metalness": 0.0
+  },
+  "LED green": {
+   "id": "mat_led_green",
+   "color": "#38D26F",
+   "roughness": 0.3,
+   "metalness": 0.0
+  },
+  "PLA purple": {
+   "id": "mat_pla_purple",
+   "color": "#7D6FE7",
+   "roughness": 0.6,
+   "metalness": 0.0
+  },
+  "Paint black": {
+   "id": "mat_paint_black",
+   "color": "#121214",
+   "roughness": 0.75,
+   "metalness": 0.0
+  },
+  "Nylon white (JST)": {
+   "id": "mat_nylon_white_jst",
+   "color": "#EDEAE1",
+   "roughness": 0.45,
+   "metalness": 0.0
+  }
+ },
+ "pivots": [
+  {
+   "link": "j1",
+   "name": "PIVOT J1 Turret",
+   "pos": [
+    0.0,
+    0.0,
+    20.0
+   ],
+   "quat": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "link": "j2",
+   "name": "PIVOT J2 Upper arm",
+   "pos": [
+    -0.0,
+    -49.0,
+    105.0
+   ],
+   "quat": [
+    0.707107,
+    -0.707107,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "link": "j3",
+   "name": "PIVOT J3 Forearm",
+   "pos": [
+    106.729,
+    -226.079,
+    19.0
+   ],
+   "quat": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "link": "j4",
+   "name": "PIVOT J4 Wrist",
+   "pos": [
+    138.674,
+    144.117,
+    -0.0
+   ],
+   "quat": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "link": "j5",
+   "name": "PIVOT J5 Tool",
+   "pos": [
+    15.576,
+    79.488,
+    30.0
+   ],
+   "quat": [
+    0.703751,
+    0.703751,
+    -0.068808,
+    -0.068808
+   ]
+  }
+ ],
+ "calibration": {
+  "j1": {
+   "viewer_zero": 0.0,
+   "viewer_sign": 1.0,
+   "rest_z_deg": 0.0
+  },
+  "j2": {
+   "viewer_zero": 64.72866349013503,
+   "viewer_sign": -1.0,
+   "rest_z_deg": 0.0
+  },
+  "j3": {
+   "viewer_zero": -110.83132167925511,
+   "viewer_sign": -1.0,
+   "rest_z_deg": 0.0
+  },
+  "j4": {
+   "viewer_zero": -32.728800323637785,
+   "viewer_sign": -1.0,
+   "rest_z_deg": 0.0
+  },
+  "j5": {
+   "viewer_zero": 5.869693012527932e-06,
+   "viewer_sign": -1.0,
+   "rest_z_deg": 0.0
+  }
+ },
+ "bounds_mm": {
+  "min": [
+   -217.98147583007812,
+   -94.9911880493164,
+   -1.115771965487511e-06
+  ],
+  "max": [
+   310.39093017578125,
+   120.01533508300781,
+   381.0735778808594
+  ]
+ },
+ "source": "D:\\Claude\\dragon-arm\\dragon_arm_trailer.blend",
+ "ratio": 0.2,
+ "source_tris": 980065,
+ "export_tris": 213850
+}

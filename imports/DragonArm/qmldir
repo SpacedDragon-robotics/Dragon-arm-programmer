@@ -1,0 +1,6 @@
+module DragonArm
+
+singleton Theme 1.0 Theme.qml
+singleton RobotLibrary 1.0 RobotLibrary.qml
+singleton MovementPlan 1.0 MovementPlan.qml
+singleton AppState 1.0 AppState.qml
